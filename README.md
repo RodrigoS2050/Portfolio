@@ -21,9 +21,17 @@ E também um efeito máquina de escrever:
 
 ![portfolio 2](https://user-images.githubusercontent.com/97991094/174919657-2f2ae439-368a-4692-9c28-6caad3915def.gif)
 
+E alguns outros efeitos de hover:
+
+![portfolio 0](https://user-images.githubusercontent.com/97991094/174921575-f9d579f4-7a36-4da4-8913-d6736506fad6.gif)
+
+![portfolio 8](https://user-images.githubusercontent.com/97991094/174921786-0d61f451-7940-48ad-8203-daf859b06b24.gif)
+
 # Responsividade
 Foi necessário a criação de Menu Mobile ou "Menu Hamburguer" como é conhecido, também realizei a quebra do grid de acordo com o tamanho da tela do usuário.
 
 ![portfolio 3](https://user-images.githubusercontent.com/97991094/174920349-d485d406-488d-436c-8584-5bd900f68056.gif)
+
+![portfolio 6](https://user-images.githubusercontent.com/97991094/174921300-160c280b-6d96-4ad6-849a-460c7201ffcf.gif)
 
 ![portfolio 4](https://user-images.githubusercontent.com/97991094/174920555-93ef863c-87dc-492d-9e34-e26000f42d5b.gif)
