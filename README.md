@@ -1,5 +1,5 @@
 # Portfolio
-Projeto desenvolvido com intuito de demonstrar meus projetos e meus conhecimentos.
+Projeto desenvolvido com intuito de demonstrar meus conhecimentos, meus projetos e me desenvolveor em UI Design, HTML, CSS & JavaScript.
 
 # UI Design & Prototipação 
 
