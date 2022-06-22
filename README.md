@@ -13,7 +13,7 @@ Logo após isso a interface foi desenhada no figma, onde foi criado toda a parte
 
 # Front End & Desenvolvimento
 Logo após a finalização do projeto no figma veio a parte de codificação do projeto, realizei algumas mudanças ao longo do projeto como a adição do gradiente 
-no palavra Portfólio. Além de algumas funcionalidades feitas com JavaScript que não é possível fazer no figma, como por exemplo scroll suave:
+no palavra Portfólio. Além de algumas funcionalidades feitas com JavaScript que não é possível fazer no figma, como por exemplo scroll suave e o header fixado no topo do site:
 
 ![portfolio 1](https://user-images.githubusercontent.com/97991094/174918816-55add34c-adfe-495f-8edc-c57209384af2.gif)
 
